@@ -1,31 +1,47 @@
 👋 Hi, I’m Kosisochukwu Daniel (@Major-Kosdan)
 
-I'm a passionate Web Developer, STEM Educator, and Tech Enthusiast dedicated to building impactful web solutions and empowering others through technology and education.
+I'm a passionate **Web Developer**, **Computer Networking Intern**, and **STEM Educator** dedicated to building impactful web solutions, managing secure networks, and empowering others through technology and education.
 
-
+---
 
 👨‍💻 Languages and Tools:
 
+Languages:
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+</p>
+
+Tools:
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 </p>
 
 ---
 
 🌱 Currently Learning:
-- JavaScript for dynamic web development  
+- Advanced JavaScript for dynamic web development  
 - React.js for building modern, interactive front-end applications  
-- PHP for server-side scripting  
+- Node.js for server-side development  
+- PHP for backend scripting  
 - MySQL for database management
 
 ---
 
-💞️ Collaborate With Me On...
+💼 Experience:
+- Computer Networking Intern:** Gaining hands-on experience in network management, troubleshooting, and securing systems.
+
+---
+
+💞️ Collaborate With Me On:
 - Web development projects  
 - Open-source contributions  
 - STEM education initiatives
@@ -33,8 +49,15 @@ I'm a passionate Web Developer, STEM Educator, and Tech Enthusiast dedicated to 
 ---
 
 📫 Reach Me:
-- LinkedIn: [Kosisochukwu Daniel](https://www.linkedin.com/in/kosisochukwu-daniel-819b3b331/)
+- LinkedIn: [Kosisochukwu Daniel](https://www.linkedin.com/in/kosisochukwu-daniel-819b3b331/)  
 - Portfolio: [major-kosdan.github.io](https://major-kosdan.github.io)
 
+---
 
+😄 Pronouns:
+He/Him
 
+---
+
+⚡ Fun Fact:
+I founded **Core Concepts Academy**, where we turn complex science topics into "aha!" moments. If Math, Physics, or Chemistry ever made you scream, come over—we’ll make sure it’s with joy! 🎓🚀
