@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Kosisochukwu Daniel (@Major-Kosdan)
+## 👋 **Hi, I’m Kosisochukwu Daniel (@Major-Kosdan)**
 
 I'm a passionate **Web Developer**, **Computer Networking Intern**, and **STEM Educator** dedicated to building impactful web solutions, managing secure networks, and empowering others through technology and education.
 
