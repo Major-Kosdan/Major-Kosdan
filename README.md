@@ -1,12 +1,12 @@
-👋  **Hi, I’m Kosisochukwu Daniel (@Major-Kosdan)**
+## 👋 Hi, I’m Kosisochukwu Daniel (@Major-Kosdan)
 
 I'm a passionate **Web Developer**, **Computer Networking Intern**, and **STEM Educator** dedicated to building impactful web solutions, managing secure networks, and empowering others through technology and education.
 
 ---
 
-👨‍💻 Languages and Tools:
+### 👨‍💻 Languages and Tools:
 
-Languages:
+#### Languages:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
@@ -17,7 +17,7 @@ Languages:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
 </p>
 
-Tools:
+#### Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
@@ -26,7 +26,7 @@ Tools:
 
 ---
 
-🌱 Currently Learning:
+### 🌱 Currently Learning:
 - Advanced JavaScript for dynamic web development  
 - React.js for building modern, interactive front-end applications  
 - Node.js for server-side development  
@@ -35,28 +35,28 @@ Tools:
 
 ---
 
-💼 Experience:
-- Computer Networking Intern: Gaining hands-on experience in network management, troubleshooting, and securing systems.
+### 💼 Experience:
+- **Computer Networking Intern:** Gaining hands-on experience in network management, troubleshooting, and securing systems.
 
 ---
 
-💞️ Collaborate With Me On:
+### 💞️ Collaborate With Me On:
 - Web development projects  
 - Open-source contributions  
 - STEM education initiatives
 
 ---
 
-📫 Reach Me:
+### 📫 Reach Me:
 - LinkedIn: [Kosisochukwu Daniel](https://www.linkedin.com/in/kosisochukwu-daniel-819b3b331/)  
 - Portfolio: [major-kosdan.github.io](https://major-kosdan.github.io)
 
 ---
 
-😄 Pronouns:
+### 😄 Pronouns:
 He/Him
 
 ---
 
-⚡ Fun Fact:
+### ⚡ Fun Fact:
 I founded **Core Concepts Academy**, where we turn complex science topics into "aha!" moments. If Math, Physics, or Chemistry ever made you scream, come over—we’ll make sure it’s with joy! 🎓🚀
