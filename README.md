@@ -1,7 +1,6 @@
-## 👋 **Hi, I’m Kosisochukwu Daniel (@Major-Kosdan)**
+## 👋 **Hi, I’m Kosisochukwu Nnachi (@Major-Kosdan)**
 
-I'm a passionate **Web Developer**, **Computer Networking Intern**, and **STEM Educator** dedicated to building impactful web solutions, managing secure networks, and empowering others through technology and education.
-
+Proficient Web Developer with hands-on experience in HTML, CSS, JavaScript, React, PHP, and MySQL. Skilled in building responsive and functional websites, with a growing expertise in WordPress development and website management. Committed to continuous learning and delivering efficient digital solutions. Let’s connect!
 ---
 
 ### 👨‍💻 Languages and Tools:
