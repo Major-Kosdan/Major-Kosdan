@@ -1,4 +1,4 @@
-## 👋 **Hi, I’m Kosisochukwu Nnachi (@Major-Kosdan)**
+**## 👋 **Hi, I’m Kosisochukwu Nnachi (@Major-Kosdan)**
 
 Proficient Web Developer with hands-on experience in HTML, CSS, JavaScript, React, PHP, and MySQL. Skilled in building responsive and functional websites, with a growing expertise in WordPress development and website management. Committed to continuous learning and delivering efficient digital solutions. Let’s connect!
 ---
