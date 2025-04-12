@@ -35,19 +35,31 @@ Proficient Web Developer with hands-on experience in HTML, CSS, JavaScript, Reac
 ---
 
 ### 💼 Experience:
-- **Computer Networking Intern:** Gaining hands-on experience in network management, troubleshooting, and securing systems.
 
+**February 2025 - Present**
+Web Developer & Website Manager
+Synagogue of Liberty Ministries, Stafford City, TX - Remote
+
+I manage and maintain the organization's websites, ensuring top performance, security, and user experience. I optimize site structure for responsiveness and accessibility, implement multi-language support—including a Hispanic version for Revival America—and handle updates, content, and events. I enhance SEO, security, and performance, aligning all web solutions with the organization’s digital and outreach goals.
 ---
+
+**September 2024 - February 2025**
+Frontend Developer Intern (SIWES)
+Centre for Information Technology and Systems, University of Lagos, Akoka
+
+Redesigned the University of Lagos ICT department website in collaboration with the HOD, translating UI/UX designs into responsive web pages. Focused on frontend development with HTML, CSS, and JavaScript, while supporting backend integration for course exploration, applications, and registrations.
+---
+
+
 
 ### 💞️ Collaborate With Me On:
 - Web development projects  
 - Open-source contributions  
 - STEM education initiatives
-
 ---
 
 ### 📫 Reach Me:
-- LinkedIn: [Kosisochukwu Daniel](https://www.linkedin.com/in/kosisochukwu-daniel-819b3b331/)  
+- LinkedIn: [Kosisochukwu Daniel](https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/)  
 - Portfolio: [major-kosdan.github.io](https://major-kosdan.github.io)
 
 ---
