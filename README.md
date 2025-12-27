@@ -1,78 +1,61 @@
+
 <div align="center">
+
+<img width="120" src="https://avatars.githubusercontent.com/u/0?v=4" />
 
 # 👋 Hey, I’m Kosisochukwu Nnachi
-
-### Web Developer | WordPress Enthusiast | STEM Tutor
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-pink?style=for-the-badge&logo=google-chrome)](https://major-kosdan.github.io) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kosisochukwu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/) 
-[![GitHub](https://img.shields.io/badge/GitHub-Major--Kosdan-black?style=for-the-badge&logo=github)](https://github.com/Major-Kosdan)
-
-</div>
-
----
-
-<div align="center">
-
-### 🛠️ Tech Stack
+  
+### Computer Science Graduate · Web Developer · WordPress Developer
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="50" height="50"/>
+  <em>Building clean, functional, and user-focused web experiences.</em>
+</p>
+
+<p align="center">
+  <a href="https://major-kosdan.github.io">Portfolio</a> ·
+  <a href="https://github.com/major-kosdan">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/">LinkedIn</a>
 </p>
 
 </div>
 
 ---
 
-<div align="center">
+## 🚀 What I Do
 
-### 📊 GitHub Stats
+I design and build responsive websites and web applications using modern web technologies.  
+My focus is on **clarity, performance, and real-world usability**.
+
+I enjoy learning by building and continuously improving my craft.
+
+---
+
+## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=major-kosdan&show_icons=true&theme=tokyonight&hide_border=false" alt="Kosisochukwu's GitHub Stats" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,wordpress,git,github,vscode" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=major-kosdan&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
+---
 
-</div>
+## 💼 Experience
+
+**Web Developer & Website Manager**  
+*Synagogue of Liberty Ministries (Remote)*
+
+**Frontend Developer Intern (SIWES)**  
+*Centre for Information Technology and Systems, University of Lagos*
+
+---
+
+## 🎓 Beyond Development
+
+Founder of **Core Concepts Academy**, where I teach and simplify complex science and technology concepts for students.
 
 ---
 
 <div align="center">
 
-### 🌱 Currently Learning
-- Advanced JavaScript & DOM manipulation  
-- React.js for modern interactive apps  
-- Node.js & PHP backend development  
-- MySQL database optimization  
-
-</div>
-
----
-
-<div align="center">
-
-### 💡 Fun Fact
-🎓 Founder of **Core Concepts Academy** – we make Math, Physics, and Chemistry fun & easy!  
-
-</div>
-
----
-
-<div align="center">
-
-### 💬 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kosisochukwu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-pink?style=for-the-badge&logo=google-chrome)](https://major-kosdan.github.io) 
-[![GitHub](https://img.shields.io/badge/GitHub-Major--Kosdan-black?style=for-the-badge&logo=github)](https://github.com/Major-Kosdan)
+✨ *Clean code. Continuous growth. Purpose-driven learning.* ✨
 
 </div>
