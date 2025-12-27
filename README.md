@@ -1,23 +1,24 @@
-# 🚀 Engineering Impactful Web Solutions
 
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Clean code animation"/>
   
-  <h1>I'm Kosisochukwu Nnachi</h1>
+  <h1>Hello World 👋🏻 I'm Kosisochukwu Nnachi</h1>
 
   <p align="center">
     <strong>BSc Computer Science | Modern Web Architect | WordPress Strategist</strong>
   </p>
 
   <p align="center">
-    <em>"Bridging the gap between complex logic and elegant user experiences."</em>
-  </p>
+  <em>Building clean, functional, and user-focused web experiences.</em>
+</p>
 
-  <p align="center">
-    <a href="https://major-kosdan.github.io"><b>🌐 Portfolio</b></a> •
-    <a href="https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/"><b>🔗 LinkedIn</b></a> •
-    <a href="mailto:your-email@example.com"><b>📧 Contact Me</b></a>
-  </p>
+<p align="center">
+  <a href="https://major-kosdan.github.io">Portfolio</a> ·
+  <a href="https://github.com/major-kosdan">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/">LinkedIn</a>
+</p>
+
+</div>
 
   <img src="https://visitor-badge.laobi.icu/badge?page_id=major-kosdan.major-kosdan&left_color=gray&right_color=blue" alt="Visitor Badge"/>
 </div>
