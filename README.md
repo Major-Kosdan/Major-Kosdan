@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Clean code animation"/>
   
-  <h1>Hello World! 👋🏻 I'm Kosisochukwu Nnachi</h1>
+  <h1>Hello World!🌎👋🏻 I'm Kosisochukwu Nnachi</h1>
 
   <p align="center">
     <strong>BSc Computer Science |  Web Developer | WordPress Strategist</strong>
@@ -15,7 +15,7 @@
 <p align="center">
   <a href="https://linkedin.com/in/kosisochukwu-daniel"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://major-kosdan.github.io"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto: majorkosdan@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 </div>
