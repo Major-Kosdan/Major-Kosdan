@@ -32,11 +32,14 @@
 
 <div align="center">
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Major-Kosdan&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major-Kosdan&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=major-kosdan&show_icons=true&theme=tokyonight&hide_border=false" alt="Kosisochukwu's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=major-kosdan&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 </div>
