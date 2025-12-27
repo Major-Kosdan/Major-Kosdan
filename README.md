@@ -2,10 +2,10 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Clean code animation"/>
   
-  <h1>Hello World 👋🏻 I'm Kosisochukwu Nnachi</h1>
+  <h1>Hello World! 👋🏻 I'm Kosisochukwu Nnachi</h1>
 
   <p align="center">
-    <strong>BSc Computer Science | Modern Web Architect | WordPress Strategist</strong>
+    <strong>BSc Computer Science |  Web Developer | WordPress Strategist</strong>
   </p>
 
   <p align="center">
@@ -20,29 +20,18 @@
 
 </div>
 
+<div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=major-kosdan.major-kosdan&left_color=gray&right_color=blue" alt="Visitor Badge"/>
 </div>
 
 ---
 
-### 📊 GitHub Power Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=major-kosdan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=major-kosdan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-kosdan&theme=tokyonight&hide_border=true" />
-</div>
-
----
 
 ### 👨‍💻 About Me
 
-I am a results-driven **Computer Science graduate** dedicated to building high-performance, scalable web applications. My approach combines the technical rigor of a developer with the creative eye of a designer. Whether it's custom React builds or robust WordPress management, I focus on performance, SEO, and accessibility.
+I am a results-driven **Computer Science graduate** dedicated to building high-performance, scalable web applications. My approach combines the technical rigor of a developer with the creative eye of a designer. 
 
-- 🔭 **Current Focus:** Masterminding advanced React architectures and Next.js applications.
-- ⚡ **Key Philosophy:** Write code that is as readable as it is functional.
-- 🌱 **Learning:** Currently diving deep into **TypeScript** and **Node.js** backend systems.
+- 🌱 **Learning:** Currently learning React architectures and Next.js applications.
 
 ---
 
@@ -71,16 +60,12 @@ I am a results-driven **Computer Science graduate** dedicated to building high-p
 ---
 
 
-### 📊 DATA & CONTRIBUTIONS
+### 📊 GitHub Power Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=major-kosdan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=major-kosdan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
   <br/>
   
-  <p><b>Contribution Activity</b></p>
-  <img src="https://raw.githubusercontent.com/major-kosdan/major-kosdan/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
-  
-  <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-kosdan&theme=tokyonight&hide_border=true" width="100%" />
 </div>
 
@@ -96,7 +81,7 @@ I am a results-driven **Computer Science graduate** dedicated to building high-p
 
 If you find my projects helpful or want to support my journey in the open-source world, feel free to buy me a coffee!
 
-<p align="left">
+<p align="center">
   <a href="https://www.buymeacoffee.com/major-kosdan">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"/>
   </a>
