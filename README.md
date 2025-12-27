@@ -1,11 +1,15 @@
-# 👋 Hi, I'm Kosisochukwu Nnachi
+# 👋 Hello World!, I'm Kosisochukwu Nnachi
+
 
 <div align="center">
-  <img src="https://images.presentationgo.com/2025/04/blue-technology-wave-background.jpg" alt="Sleek Abstract Tech Wave Banner" width="100%"/>
-  
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Clean code animation"/>
+
+</div>   
+
   <br/><br/>
   
-  <strong>BSc Computer Science | Modern Web Developer | React & WordPress Specialist</strong>
+  <strong>BSc Computer Science | Modern Web Developer | WordPress Specialist</strong>
   
   <br/><br/>
   
@@ -45,7 +49,7 @@
 <br/><br/>
 
 **Backend & Others**  
-<img src="https://skillicons.dev/icons?i=php,mysql,wordpress,nodejs,git,github,vscode,figma" height="50"/>
+<img src="https://skillicons.dev/icons?i=php,mysql,wordpress,nodejs,git,github,vscode" height="50"/>
 
 </div>
 
@@ -86,11 +90,3 @@ Enjoy my projects? Fuel more coding with a coffee!
 </div>
 
 ---
-
-<div align="center">
-
-**"Simplicity is the soul of efficiency."** — Austin Freeman  
-
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Clean code animation"/>
-
-</div>
