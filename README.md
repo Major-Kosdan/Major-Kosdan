@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Clean code animation"/>
   
-  <h1>Hello World!🌎👋🏻 I'm Kosisochukwu Nnachi</h1>
+  <h1>Hello World 🌎👋🏻 <br/> I'm Kosisochukwu Nnachi</h1>
 
   <p align="center">
     <strong>BSc Computer Science |  Web Developer | WordPress Strategist</strong>
@@ -31,7 +31,7 @@
 
 I am a results-driven **Computer Science graduate** dedicated to building high-performance, scalable web applications. My approach combines the technical rigor of a developer with the creative eye of a designer. 
 
-- 🌱 **Learning:** Currently learning React architectures and Next.js applications.
+- 🌱 Currently learning React architectures and Next.js applications.
 
 ---
 
@@ -87,7 +87,7 @@ If you find my projects helpful or want to support my journey in the open-source
   </a>
 </p>
 
-<br />
+<br/>
 
 <div align="center">
   <sub>Built by <b>Kosisochukwu Nnachi</b></sub>
