@@ -1,97 +1,86 @@
-<!-- Header Banner -->
-<p align="center">
-  <img src="https://repository-images.githubusercontent.com/678715471/b80f7763-9f3e-4452-afb2-1457b31f77fc" alt="Creative Web Developer Banner" width="100%"/>
-</p>
+# 🚀 Engineering Impactful Web Solutions
 
-# 👋 Hi, I'm Kosisochukwu Nnachi
+<div align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Clean code animation"/>
+  
+  <h1>I'm Kosisochukwu Nnachi</h1>
 
-### 🚀 BSc Computer Science Graduate | Full-Stack Web Developer | React & WordPress Wizard
+  <p align="center">
+    <strong>BSc Computer Science | Modern Web Architect | WordPress Strategist</strong>
+  </p>
 
-<p align="center">
-  <em>Crafting pixel-perfect, lightning-fast web experiences that blend creativity with rock-solid functionality.</em>
-</p>
+  <p align="center">
+    <em>"Bridging the gap between complex logic and elegant user experiences."</em>
+  </p>
 
-<p align="center">
-  <a href="https://major-kosdan.github.io">🌐 Portfolio</a> •
-  <a href="https://github.com/major-kosdan">💻 GitHub</a> •
-  <a href="https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/">🔗 LinkedIn</a>
-</p>
+  <p align="center">
+    <a href="https://major-kosdan.github.io"><b>🌐 Portfolio</b></a> •
+    <a href="https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/"><b>🔗 LinkedIn</b></a> •
+    <a href="mailto:your-email@example.com"><b>📧 Contact Me</b></a>
+  </p>
 
-<!-- Visitor Badge -->
-<p align="center">
-  <img src="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmajor-kosdan" alt="Visitors"/>
-</p>
-
----
-
-## 🔥 About Me
-
-I'm a passionate developer turning ideas into **beautiful, responsive, and performant** web applications.  
-I thrive on solving real-world problems with clean code, modern tools, and a touch of creative flair.  
-Always learning, always building — one commit at a time. 💡
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=major-kosdan.major-kosdan&left_color=gray&right_color=blue" alt="Visitor Badge"/>
+</div>
 
 ---
 
-## 🛠️ Tech Arsenal
+### 👨‍💻 About Me
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,wordpress,git,github,vscode,tailwind,nodejs" />
-</p>
+I am a results-driven **Computer Science graduate** dedicated to building high-performance, scalable web applications. My approach combines the technical rigor of a developer with the creative eye of a designer. Whether it's custom React builds or robust WordPress management, I focus on performance, SEO, and accessibility.
 
-*(Expanding into Node.js, Tailwind CSS, and more advanced full-stack magic!)*
-
----
-
-## 💼 Professional Journey
-
-### Web Developer & Website Manager  
-**Synagogue of Liberty Ministries (Remote)**  
-- Managed full website lifecycle: security hardening, updates, multilingual support  
-- Boosted performance, SEO rankings, and accessibility standards  
-
-### Frontend Developer Intern (SIWES)  
-**Centre for Information Technology and Systems, University of Lagos**  
-- Revamped UI/UX for responsive web applications  
-- Built seamless frontend experiences with HTML, CSS, JavaScript + backend integration  
+- 🔭 **Current Focus:** Masterminding advanced React architectures and Next.js applications.
+- ⚡ **Key Philosophy:** Write code that is as readable as it is functional.
+- 🌱 **Learning:** Currently diving deep into **TypeScript** and **Node.js** backend systems.
 
 ---
 
-## 🌱 On My Learning Radar
+### 🛠️ Tech Stack & Arsenal
 
-- Mastering **Advanced React** (Hooks, Context, Performance Optimization)  
-- Diving deep into **Node.js & Express** for full-stack power  
-- Exploring modern styling with **Tailwind CSS**  
-- Strengthening backend skills with **PHP, MySQL, and Laravel basics**  
-
----
-
-## 📊 GitHub Stats (Because Numbers Tell a Story)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=major-kosdan&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=major-kosdan&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-kosdan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Frontend** | ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) |
+| **Backend/CMS** | ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%2321759B.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) |
+| **DevOps/Tools** | ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) |
 
 ---
 
-## ☕ Fuel My Coding Adventures
+### 💼 Professional Journey
 
-Love what I build? Buy me a coffee to keep the creativity flowing! 🚀
+#### **Web Developer & Manager** | Synagogue of Liberty Ministries
+> *Managed security, performance, and internationalization.*
+* Implemented multi-language features to expand global reach.
+* Optimized SEO and accessibility standards, significantly increasing organic traffic.
 
-<p align="center">
-  <a href="https://www.buymeacoffee.com/major-kosdan" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217">
+#### **Frontend Intern** | CITS, University of Lagos
+> *Crafting responsive and intuitive user interfaces.*
+* Collaborated on the redesign of core university web applications.
+* Bridge the gap between UI/UX designs and backend API integrations.
+
+---
+
+### 📊 GitHub Power Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=major-kosdan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=major-kosdan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-kosdan&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+### ☕ Support My Work
+
+If you find my projects helpful or want to support my journey in the open-source world, feel free to buy me a coffee!
+
+<p align="left">
+  <a href="https://www.buymeacoffee.com/major-kosdan">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50"/>
   </a>
 </p>
 
----
+<br />
 
 <div align="center">
-
-**"Code is poetry. Build with purpose. Grow without limits."** ✨
-
+  <sub>Built by <b>Kosisochukwu Nnachi</b></sub>
 </div>
