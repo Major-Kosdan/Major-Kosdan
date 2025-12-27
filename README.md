@@ -25,6 +25,17 @@
 
 ---
 
+### 📊 GitHub Power Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=major-kosdan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=major-kosdan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-kosdan&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
 ### 👨‍💻 About Me
 
 I am a results-driven **Computer Science graduate** dedicated to building high-performance, scalable web applications. My approach combines the technical rigor of a developer with the creative eye of a designer. Whether it's custom React builds or robust WordPress management, I focus on performance, SEO, and accessibility.
@@ -56,17 +67,6 @@ I am a results-driven **Computer Science graduate** dedicated to building high-p
 > *Crafting responsive and intuitive user interfaces.*
 * Collaborated on the redesign of core university web applications.
 * Bridge the gap between UI/UX designs and backend API integrations.
-
----
-
-### 📊 GitHub Power Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=major-kosdan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=major-kosdan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-kosdan&theme=tokyonight&hide_border=true" />
-</div>
 
 ---
 
