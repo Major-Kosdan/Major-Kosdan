@@ -70,6 +70,28 @@ I am a results-driven **Computer Science graduate** dedicated to building high-p
 
 ---
 
+
+### 📊 DATA & CONTRIBUTIONS
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=major-kosdan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=major-kosdan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <br/>
+  
+  <p><b>Contribution Activity</b></p>
+  <img src="https://raw.githubusercontent.com/major-kosdan/major-kosdan/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+  
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-kosdan&theme=tokyonight&hide_border=true" width="100%" />
+</div>
+
+---
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
+
+---
+
 ### ☕ Support My Work
 
 If you find my projects helpful or want to support my journey in the open-source world, feel free to buy me a coffee!
