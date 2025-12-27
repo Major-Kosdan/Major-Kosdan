@@ -21,7 +21,7 @@
 
 ---
 
-## 🚀 What I Do
+##  What I Do
 
 I design and build responsive websites and web applications using modern web technologies.  
 My focus is on **clarity, performance, and real-world usability**.
@@ -30,15 +30,15 @@ I enjoy learning by building and continuously improving my craft.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,wordpress,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,wordpress,git,github,vscode" />
 </p>
 
 ---
 
-## 💼 Experience
+##  Experience
 
 **Web Developer & Website Manager**  
 *Synagogue of Liberty Ministries (Remote)*
@@ -48,7 +48,7 @@ I enjoy learning by building and continuously improving my craft.
 
 ---
 
-## 🎓 Beyond Development
+##  Beyond Development
 
 Founder of **Core Concepts Academy**, where I teach and simplify complex science and technology concepts for students.
 
@@ -56,6 +56,6 @@ Founder of **Core Concepts Academy**, where I teach and simplify complex science
 
 <div align="center">
 
-✨ *Clean code. Continuous growth. Purpose-driven learning.* ✨
+ *Clean code. Continuous growth. Purpose-driven learning.* 
 
 </div>
