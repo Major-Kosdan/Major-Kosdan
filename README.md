@@ -1,93 +1,87 @@
-# 👋 Hello, World! I'm Kosisochukwu Nnachi
+# 👋 Hi, I'm Kosisochukwu Nnachi
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Souravdey777/Souravdey777/master/Github%20Banner.svg" alt="Creative Web Developer Banner" width="100%"/>
+  <img src="https://images.presentationgo.com/2025/04/blue-technology-wave-background.jpg" alt="Sleek Abstract Tech Wave Banner" width="100%"/>
   
   <br/><br/>
   
-  <em><strong>BSc Computer Science Graduate | Full-Stack Web Developer | React & WordPress Wizard</strong></em>
+  <strong>BSc Computer Science | Modern Web Developer | React & WordPress Specialist</strong>
   
   <br/><br/>
   
-  Crafting **clean, performant, and delightful** web experiences that users love 🚀
-</div>
+  <em>Turning ideas into elegant, high-performance web experiences with clean code and thoughtful design.</em> ✨
+</div><grok:render card_id="fd6ff5" card_type="image_card" type="render_searched_image"><argument name="image_id">10</argument><argument name="size">"LARGE"</argument></grok:render>
 
 <p align="center">
-  <a href="https://major-kosdan.github.io">🌐 Portfolio</a> •
-  <a href="https://github.com/major-kosdan">💻 GitHub</a> •
+  <a href="https://major-kosdan.github.io">🌐 Portfolio</a> ·
+  <a href="https://github.com/major-kosdan">💻 GitHub</a> ·
   <a href="https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/">🔗 LinkedIn</a>
 </p>
 
 <div align="center">
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=major-kosdan.major-kosdan)
-
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=major-kosdan.major-kosdan" alt="Visitor Badge"/>
 </div>
 
 ---
 
-## 🔥 GitHub Stats & Streaks
+## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=major-kosdan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Kosisochukwu's GitHub Stats" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=major-kosdan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=major-kosdan&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=major-kosdan&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
   <br/><br/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-kosdan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-kosdan&theme=dracula&hide_border=true" alt="Streak Stats"/>
 </div>
 
 ---
 
-## 🛠️ My Tech Arsenal
+## 🛠️ Technologies & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,typescript,nodejs,php,mysql,wordpress,tailwind,bootstrap,git,github,vscode,figma" />
-  
-  <br/><br/>
-  
-  <img src="https://skillicons.dev/icons?i=nextjs,express,mongodb,firebase,postman,docker,aws,vercel" />
+
+**Frontend**  
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="50"/>
+
+<br/><br/>
+
+**Backend & Others**  
+<img src="https://skillicons.dev/icons?i=php,mysql,wordpress,nodejs,git,github,vscode,figma" height="50"/>
+
 </div>
 
 ---
 
-## 👨‍💻 Professional Journey
+## 💼 Experience
 
-### **Web Developer & Website Manager**  
-*Synagogue of Liberty Ministries (Remote)*  
-🔹 Managed website security, updates, and multi-language support  
-🔹 Optimized for blazing-fast performance, SEO mastery, and flawless accessibility  
+**Web Developer & Website Manager** — *Synagogue of Liberty Ministries (Remote)*  
+- Managed security, updates, multi-language features  
+- Enhanced performance, SEO, and accessibility standards  
 
-### **Frontend Developer Intern (SIWES)**  
-*Centre for Information Technology and Systems, University of Lagos*  
-🔹 Redesigned responsive UI/UX for university web applications  
-🔹 Built pixel-perfect frontends with HTML, CSS, JavaScript + seamless backend integration  
+**Frontend Developer Intern** — *Centre for Information Technology and Systems, University of Lagos*  
+- Redesigned responsive UI/UX for key web applications  
+- Developed with HTML, CSS, JavaScript + backend integration  
 
 ---
 
-## 🌱 Always Growing
+## 🚀 Currently Exploring
 
 <div align="center">
-  <strong>Currently leveling up in:</strong>
-  
-  <br/><br/>
-  
-  <img src="https://img.shields.io/badge/Advanced%20JavaScript-Expert-yellow?style=for-the-badge&logo=javascript" />
-  <img src="https://img.shields.io/badge/React%20Hooks%20&%20Next.js-Pro-61DAFB?style=for-the-badge&logo=react" />
-  <img src="https://img.shields.io/badge/Node.js%20&%20Express-Master-339933?style=for-the-badge&logo=node.js" />
-  <img src="https://img.shields.io/badge/PHP%20&%20Laravel-Deep%20Dive-FF2D20?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/React%20Advanced-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-Black?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
 </div>
 
 ---
 
-## ☕ Fuel My Coding Adventures
+## ☕ Support My Journey
 
-Love my work? Buy me a coffee to keep the code flowing! ☕
+Enjoy my projects? Fuel more coding with a coffee!
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/major-kosdan" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217" >
+  <a href="https://www.buymeacoffee.com/major-kosdan">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217"/>
   </a>
 </div>
 
@@ -95,10 +89,8 @@ Love my work? Buy me a coffee to keep the code flowing! ☕
 
 <div align="center">
 
-**"Code is poetry. Growth is endless. Impact is everything."** ✨
+**"Simplicity is the soul of efficiency."** — Austin Freeman  
 
-<br/>
-
-<img src="https://media.giphy.com/media/tzFjGxURDcjzVoTusV/giphy.gif" alt="Creative coding animation" width="400"/>
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Clean code animation"/>
 
 </div>
