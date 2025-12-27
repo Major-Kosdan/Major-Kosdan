@@ -1,54 +1,67 @@
+<div align="center">
+
 # 👋 Hi, I’m Kosisochukwu Nnachi (@Major-Kosdan)
 
 Web Developer | WordPress Enthusiast | STEM Tutor  
 
-I build responsive, functional, and modern websites using **HTML, CSS, JavaScript, React, PHP, and MySQL**. Passionate about delivering clean digital solutions and continuously learning new technologies.  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kosisochukwu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge)](https://major-kosdan.github.io)  
+
+</div>
 
 ---
 
 ## 💻 Tech Stack
 
-### Languages
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" width="50" height="50"/>
 </p>
 
-### Tools
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50"/>
 </p>
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced JavaScript  
-- React.js (Modern Frontend)  
-- Node.js & PHP (Backend)  
-- MySQL (Databases)  
+
+- Advanced JavaScript & DOM Manipulation  
+- React.js for modern, interactive web apps  
+- Node.js & PHP backend development  
+- MySQL databases & optimization  
 
 ---
 
 ## 💼 Experience
 
 **Web Developer & Website Manager** | Synagogue of Liberty Ministries (Remote)  
-_February 2025 - Present_  
-- Maintain and optimize organization websites for performance, security, and UX  
-- Implement multilingual support including Spanish  
-- Manage updates, content, events, SEO, and site security  
+_Feb 2025 – Present_  
+- Maintain & optimize organization websites  
+- Multilingual support including Spanish  
+- SEO, security, updates, and UX improvements  
 
 **Frontend Developer Intern (SIWES)** | University of Lagos, ICT Dept  
-_September 2024 - February 2025_  
-- Redesigned department website using HTML, CSS, JS  
-- Translated UI/UX designs into responsive web pages  
-- Assisted with backend integration for applications and course registration  
+_Sep 2024 – Feb 2025_  
+- Redesigned website with HTML, CSS & JavaScript  
+- Implemented responsive, user-friendly UI  
+- Assisted with backend integrations  
+
+---
+
+## 🚀 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Major-Kosdan&show_icons=true&theme=radical" alt="Kosisochukwu's GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major-Kosdan&layout=compact&theme=radical" alt="Top Languages"/>
+</div>
 
 ---
 
@@ -59,16 +72,13 @@ _September 2024 - February 2025_
 
 ---
 
-## 📫 Connect With Me
-- LinkedIn: [Kosisochukwu Daniel](https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/)  
-- Portfolio: [major-kosdan.github.io](https://major-kosdan.github.io)  
+## 📫 Reach Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kosisochukwu-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge)](https://major-kosdan.github.io)
 
 ---
 
 ## 😄 Fun Fact
-Founder of **Core Concepts Academy**, making Math, Physics, and Chemistry fun and easy to understand. 🎓🚀  
+Founder of **Core Concepts Academy**, where we turn complex science topics into “aha!” moments. Math, Physics, Chemistry? We make it fun! 🎓🚀  
 
 ---
-
-## ⚡ Pronouns
-He/Him
