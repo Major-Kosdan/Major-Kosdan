@@ -1,14 +1,14 @@
 <div align="center">
 
-<img width="110" src="https://avatars.githubusercontent.com/u/0?v=4" style="border-radius:50%;" />
+<img src="https://i.ibb.co/3C7vRrL/web-dev-banner-darkmode.png" alt="Web Developer Banner" width="100%" />
 
-<h1>👋 Hi, I’m <span style="color:#4f46e5;">Kosisochukwu Nnachi</span></h1>
+# 👋 Hey, I’m Kosisochukwu Nnachi
 
-<p><strong>Computer Science Graduate · Web Developer · WordPress Developer</strong></p>
+### 💻 Web Developer | WordPress Developer | Computer Science Graduate
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1200&color=4F46E5&center=true&vCenter=true&width=460&lines=Building+clean+and+usable+web+experiences;Learning+by+building;Focused+on+clarity+and+growth" />
-
-<br />
+<p>
+<em>Building modern, clean, and user-focused web experiences. Always learning, always coding.</em>
+</p>
 
 <p>
   <a href="https://major-kosdan.github.io">Portfolio</a> ·
@@ -20,23 +20,77 @@
 
 ---
 
-## Focus
+## 🌟 About Me
 
-I build **responsive websites and web apps** with attention to **clarity, performance, and user experience**.  
-I’m constantly improving by shipping small, real projects.
+I design and build **responsive websites and interactive web applications** with a focus on:
+
+- ✨ Clean code  
+- ⚡ Fast performance  
+- 🎯 Real-world usability  
+
+When I’m not coding, I run **Core Concepts Academy**, making science and tech topics easy and fun for students.
 
 ---
 
-## Stack
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,wordpress,git,github,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,wordpress,git,github,vscode" />
 </p>
+
+---
+
+## 🏆 Experience
+
+**Web Developer & Website Manager**  
+*Synagogue of Liberty Ministries (Remote)*  
+
+Managing and optimizing websites for performance, security, SEO, and accessibility. Multi-language support included.
+
+**Frontend Developer Intern (SIWES)**  
+*Centre for Information Technology and Systems, University of Lagos*  
+
+Redesigned the University of Lagos ICT site with responsive layouts and dynamic UI features.
+
+---
+
+## 🚀 Fun Fact
+
+I founded **Core Concepts Academy** where we make complex science topics “aha!” moments for students. Math, Physics, Chemistry—turned into fun learning! 🎓✨
 
 ---
 
 <div align="center">
 
-<em>Clean code. Continuous growth.</em>
+<h3>Typing effect for my motto:</h3>
+
+<code>
+<span id="typewriter"></span>
+</code>
 
 </div>
+
+<script>
+const texts = ["Clean code.", "Continuous growth.", "Purpose-driven learning.", "Always building."];
+let count = 0;
+let index = 0;
+let currentText = '';
+let letter = '';
+
+(function type(){
+  if(count === texts.length) count = 0;
+  currentText = texts[count];
+  letter = currentText.slice(0, ++index);
+  
+  document.getElementById('typewriter').textContent = letter;
+  if(letter.length === currentText.length){
+    count++;
+    index = 0;
+    setTimeout(type, 1500); // pause between phrases
+  } else {
+    setTimeout(type, 100);
+  }
+})();
+</script>
+
+---
