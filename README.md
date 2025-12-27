@@ -1,58 +1,85 @@
-# 🚀 Kosisochukwu Nnachi
-**Web Developer | React Specialist | Computer Scientist**
+<div align="center">
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://major-kosdan.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=browser&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Pronouns-He%2FHim-blueviolet?style=flat-square" />
-</p>
+<img width="120" src="https://avatars.githubusercontent.com/u/0?v=4" />
 
----
+# 👋 Hey, I’m Kosisochukwu Nnachi
 
-### ⚡ The Core
-> **I build digital products that work.** > Focused on high-performance web applications and seamless user experiences. I bridge the gap between complex backend logic and elegant frontend design.
+### BSc Computer Science Graduate · Web Developer · WordPress & React Enthusiast
 
-* 🎓 **Education:** BSc Computer Science, UNN.
-* 🛠️ **Philosophy:** Code should be clean, scalable, and human-centric.
-* 🔭 **Now:** Engineering responsive solutions and exploring Advanced React patterns.
-
----
-
-### 🏗️ Tech Architecture
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,wordpress,git,vscode&perline=9" />
-</p>
-
----
-
-### 📂 Professional Footprint
-
-**Web Developer & Manager** • *Synagogue of Liberty Ministries* `Remote` | `Performance Optimization` | `Global Scalability`  
-* Architected multi-language support and enhanced security protocols for high-traffic environments.
-
-**Frontend Developer Intern** • *CITS, University of Lagos* `SIWES` | `UI/UX` | `Responsive Design`  
-* Transformed complex design wireframes into interactive, responsive web interfaces.
-
----
-
-### 📈 Mastery & Momentum
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Major-Kosdan&show_icons=true&theme=transparent&hide_border=true&title_color=36BCF7&icon_color=36BCF7&text_color=ffffff" />
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Major-Kosdan&layout=compact&theme=transparent&hide_border=true&title_color=36BCF7&text_color=ffffff" />
-</p>
-
----
-
-### 🤝 Let's Build
-I am currently open to **collaborative web projects** and **open-source contributions.**
-
-[**Get in Touch →**](https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/)
-
----
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+the+future%2C+one+commit+at+a+time.;Currently+mastering+Node.js+%26+Advanced+React." alt="Typing Effect" />
+  <em>Building clean, functional, and user-focused web experiences.</em>
 </p>
+
+<p align="center">
+  <a href="https://major-kosdan.github.io">Portfolio</a> ·
+  <a href="https://github.com/major-kosdan">GitHub</a> ·
+  <a href="https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/">LinkedIn</a> ·
+  <a href="https://www.buymeacoffee.com/major-kosdan">☕ Buy Me a Coffee</a>
+</p>
+
+</div>
+
+---
+
+## 💻 What I Do
+
+I design and build **responsive websites** and **web applications** using modern web technologies.  
+Focus is on **performance, clarity, and real-world usability**.  
+I learn by building projects and constantly improving my craft.
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,wordpress,git,github,vscode" />
+</p>
+
+---
+
+## 👨‍💻 Experience
+
+**Web Developer & Website Manager**  
+*Synagogue of Liberty Ministries (Remote)*  
+
+- Manage and maintain multiple websites  
+- Optimize performance, SEO, accessibility, and responsiveness  
+- Implement multi-language support, security updates, and content management  
+
+**Frontend Developer Intern (SIWES)**  
+*Centre for Information Technology and Systems, University of Lagos*  
+
+- Redesigned UI/UX for responsive web pages  
+- Developed frontend features using HTML, CSS, JavaScript  
+- Supported backend integration for course exploration and registration  
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced JavaScript for dynamic web apps  
+- React.js for modern, interactive front-end  
+- Node.js for server-side development  
+- PHP & MySQL for backend & database management  
+
+---
+
+## 📫 Let’s Connect
+
+- LinkedIn: [Kosisochukwu Daniel](https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/)  
+- Portfolio: [major-kosdan.github.io](https://major-kosdan.github.io)  
+- GitHub: [https://github.com/major-kosdan](https://github.com/major-kosdan)  
+
+---
+
+<div align="center">
+
+**“Clean code. Continuous growth. Purpose-driven learning.”**  
+
+</div>
+
+---
+
+## ⚡ Fun Fact
+
+I’m passionate about building tools and apps that make life easier, learning by doing, and exploring new technologies daily. React has quickly become my favorite for creating interactive UIs! 🚀
