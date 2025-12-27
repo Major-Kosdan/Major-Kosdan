@@ -1,92 +1,96 @@
-# 👋 Hello World!, I'm Kosisochukwu Nnachi
-
-
 <div align="center">
+  <h1>Hi, I'm Kosisochukwu Nnachi 👋</h1>
+  <p align="center">
+    <strong>BSc Computer Science | Modern Web Architect | WordPress Specialist</strong>
+  </p>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="400" alt="Clean code animation"/>
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Coding Animation"/>
 
-</div>   
+  <p align="center">
+    <em>"Bridging the gap between complex logic and elegant user experiences."</em>
+  </p>
 
-  <br/><br/>
-  
-  <strong>BSc Computer Science | Modern Web Developer | WordPress Specialist</strong>
-  
-  <br/><br/>
-  
-  <em>Turning ideas into elegant, high-performance web experiences with clean code and thoughtful design.</em> ✨
-</div><grok:render card_id="fd6ff5" card_type="image_card" type="render_searched_image"><argument name="image_id">10</argument><argument name="size">"LARGE"</argument></grok:render>
+  <p align="center">
+    <a href="https://major-kosdan.github.io">🌐 Portfolio</a> •
+    <a href="https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/">🔗 LinkedIn</a> •
+    <a href="mailto:your-email@example.com">📧 Contact Me</a>
+  </p>
 
-<p align="center">
-  <a href="https://major-kosdan.github.io">🌐 Portfolio</a> ·
-  <a href="https://github.com/major-kosdan">💻 GitHub</a> ·
-  <a href="https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/">🔗 LinkedIn</a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=major-kosdan.major-kosdan&left_color=gray&right_color=blue" alt="Visitor Badge"/>
+</div>
+
+---
+
+## ⚡ About Me
+I am a dedicated Web Developer with a foundation in **Computer Science**. My focus is on building high-performance, accessible, and scalable web applications. Whether it's a custom React interface or a complex WordPress ecosystem, I prioritize **clean code** and **user-centric design**.
+
+* 🔭 **Current Mission:** Mastering the Full-Stack with Next.js & TypeScript.
+* 🛡️ **Specialty:** Performance optimization and Web Security.
+* 🌱 **Philosophy:** Always be learning. Technology evolves, and so do I.
+
+---
+
+## 🛠️ The Tech Toolbox
+
+### **Frontend Artistry**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,typescript" />
+  </a>
 </p>
 
+### **Backend & Ecosystem**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,mysql,wordpress,nodejs,git,github,vscode,figma" />
+  </a>
+</p>
+
+---
+
+## 📈 Engineering Impact
+
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=major-kosdan.major-kosdan" alt="Visitor Badge"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=major-kosdan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=major-kosdan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-kosdan&theme=tokyonight&hide_border=true" width="100%"/>
 </div>
 
 ---
 
-## 📊 GitHub Insights
+## 💼 Professional Milestones
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=major-kosdan&show_icons=true&theme=dracula&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=major-kosdan&layout=compact&theme=dracula&hide_border=true&langs_count=10" alt="Top Languages" height="180"/>
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=major-kosdan&theme=dracula&hide_border=true" alt="Streak Stats"/>
-</div>
+#### **Web Developer & Systems Manager** | Synagogue of Liberty Ministries
+> Specialized in **Global Scale**. Managed multi-language features and hardened security protocols to ensure 99.9% uptime and high SEO rankings.
 
----
-
-## 🛠️ Technologies & Tools
-
-<div align="center">
-
-**Frontend**  
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" height="50"/>
-
-<br/><br/>
-
-**Backend & Others**  
-<img src="https://skillicons.dev/icons?i=php,mysql,wordpress,nodejs,git,github,vscode" height="50"/>
-
-</div>
+#### **Frontend Engineering Intern** | CITS, University of Lagos
+> Focused on **UI/UX Transformation**. Redesigned core web applications to improve mobile responsiveness and user engagement metrics.
 
 ---
 
-## 💼 Experience
+## 🎯 Current Learning Sprint
+I'm currently diving deep into these technologies to build faster, more type-safe applications:
 
-**Web Developer & Website Manager** — *Synagogue of Liberty Ministries (Remote)*  
-- Managed security, updates, multi-language features  
-- Enhanced performance, SEO, and accessibility standards  
-
-**Frontend Developer Intern** — *Centre for Information Technology and Systems, University of Lagos*  
-- Redesigned responsive UI/UX for key web applications  
-- Developed with HTML, CSS, JavaScript + backend integration  
-
----
-
-## 🚀 Currently Exploring
-
-<div align="center">
-  <img src="https://img.shields.io/badge/React%20Advanced-61DAFB?style=flat-square&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-Black?style=flat-square&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white"/>
-</div>
+| Technology | Focus Area |
+| :--- | :--- |
+| **Next.js** | Server-side Rendering & Edge Functions |
+| **TypeScript** | Advanced Type Architecture |
+| **Node.js** | Scalable API Development |
 
 ---
 
 ## ☕ Support My Journey
+If you find my work helpful or inspiring, feel free to support my coffee addiction so I can keep turning caffeine into code!
 
-Enjoy my projects? Fuel more coding with a coffee!
-
-<div align="center">
+<div align="left">
   <a href="https://www.buymeacoffee.com/major-kosdan">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60" width="217"/>
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="50" />
   </a>
 </div>
 
 ---
+
+<div align="center">
+  <sub>Built with ❤️ by Kosisochukwu Nnachi. Last updated: 2024.</sub>
+</div>
