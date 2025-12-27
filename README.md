@@ -1,31 +1,28 @@
-<div align="center">
 
-<img width="120" src="https://avatars.githubusercontent.com/u/0?v=4" />
 
 # 👋 Hey, I’m Kosisochukwu Nnachi
 
-### BSc Computer Science Graduate · Web Developer · WordPress & React Enthusiast
+### BSc Computer Science Graduate · Web Developer · React & WordPress Enthusiast
 
 <p align="center">
   <em>Building clean, functional, and user-focused web experiences.</em>
 </p>
 
 <p align="center">
-  <a href="https://major-kosdan.github.io">Portfolio</a> ·
-  <a href="https://github.com/major-kosdan">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/">LinkedIn</a> ·
-  <a href="https://www.buymeacoffee.com/major-kosdan">☕ Buy Me a Coffee</a>
+  <a href="https://major-kosdan.github.io">🌐 Portfolio</a> ·
+  <a href="https://github.com/major-kosdan">💻 GitHub</a> ·
+  <a href="https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/">🔗 LinkedIn</a>
 </p>
 
 </div>
 
 ---
 
-## 💻 What I Do
+## 💡 About Me
 
-I design and build **responsive websites** and **web applications** using modern web technologies.  
+I create **modern web apps and websites** using cutting-edge technologies.  
 Focus is on **performance, clarity, and real-world usability**.  
-I learn by building projects and constantly improving my craft.
+I learn by building projects, experimenting with new tools, and constantly improving my craft.  
 
 ---
 
@@ -41,45 +38,39 @@ I learn by building projects and constantly improving my craft.
 
 **Web Developer & Website Manager**  
 *Synagogue of Liberty Ministries (Remote)*  
-
-- Manage and maintain multiple websites  
-- Optimize performance, SEO, accessibility, and responsiveness  
-- Implement multi-language support, security updates, and content management  
+- Website management, security, updates, multi-language support  
+- Optimized performance, SEO, and accessibility  
 
 **Frontend Developer Intern (SIWES)**  
 *Centre for Information Technology and Systems, University of Lagos*  
-
 - Redesigned UI/UX for responsive web pages  
-- Developed frontend features using HTML, CSS, JavaScript  
-- Supported backend integration for course exploration and registration  
+- Frontend dev with HTML, CSS, JS, and backend integration support  
 
 ---
 
 ## 🌱 Currently Learning
 
-- Advanced JavaScript for dynamic web apps  
-- React.js for modern, interactive front-end  
-- Node.js for server-side development  
+- Advanced JavaScript  
+- React.js for interactive front-ends  
+- Node.js for server-side applications  
 - PHP & MySQL for backend & database management  
 
 ---
 
-## 📫 Let’s Connect
+## ☕ Support My Work
 
-- LinkedIn: [Kosisochukwu Daniel](https://www.linkedin.com/in/kosisochukwu-nnachi-819b3b331/)  
-- Portfolio: [major-kosdan.github.io](https://major-kosdan.github.io)  
-- GitHub: [https://github.com/major-kosdan](https://github.com/major-kosdan)  
+If you like what I do and want to support my projects, consider buying me a coffee!  
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/major-kosdan" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" >
+  </a>
+</p>
 
 ---
 
 <div align="center">
 
-**“Clean code. Continuous growth. Purpose-driven learning.”**  
+**“Clean code. Continuous growth. Purpose-driven learning.”** 🚀  
 
 </div>
-
----
-
-## ⚡ Fun Fact
-
-I’m passionate about building tools and apps that make life easier, learning by doing, and exploring new technologies daily. React has quickly become my favorite for creating interactive UIs! 🚀
