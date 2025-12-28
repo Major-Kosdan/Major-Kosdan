@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="600" alt="Clean code animation"/>
   
-  <h1>Hello World!🌎👋🏻 <br/> I'm Kosisochukwu Nnachi</h1>
+  <h1>Hello World!🌎👋🏻 <br/> I'm Major-Kosdan</h1>
 
   <p align="center">
     <strong>BSc Computer Science |  Web Developer | WordPress Strategist</strong>
