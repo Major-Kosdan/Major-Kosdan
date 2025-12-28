@@ -25,6 +25,10 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Nice+to+meet+you!;Welcome+to+my+digital+space.;Building+the+future+with+code." alt="Typing SVG" />
+</p>
+---
 
 
 ### 👨‍💻 About Me
