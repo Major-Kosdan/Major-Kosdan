@@ -51,7 +51,7 @@ I am a results-driven **Computer Science graduate** dedicated to building high-p
 
 ### 💼 Professional Journey
 
-#### **Web Developer & Manager** | Synagogue of Liberty Ministries
+#### **Web Developer & Manager** | Revival Fire America 
 > *Managed security, performance, and internationalization.*
 * Implemented multi-language features to expand global reach.
 * Optimized SEO and accessibility standards, significantly increasing organic traffic.
