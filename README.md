@@ -39,7 +39,7 @@ I am a results-driven **Computer Science graduate** dedicated to building high-p
 
 ---
 
-### 🛠️ Tech Stack & Arsenal
+### 🛠️ Tech Stack
 
 | Category | Tools & Technologies |
 | :--- | :--- |
